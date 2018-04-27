@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>flower-72.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Hoja-Minador</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>572</xmin>
+            <ymin>1711</ymin>
+            <xmax>1135</xmax>
+            <ymax>2672</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hoja-Minador</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1343</xmin>
+            <ymin>955</ymin>
+            <xmax>2301</xmax>
+            <ymax>2068</ymax>
+        </bndbox>
+    </object>
+</annotation>

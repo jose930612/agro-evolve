@@ -1,0 +1,23 @@
+<annotation>
+    <folder>train</folder>
+    <filename>flower-141.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Hoja-Sana</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>272</xmin>
+            <ymin>572</ymin>
+            <xmax>2534</xmax>
+            <ymax>3340</ymax>
+        </bndbox>
+    </object>
+</annotation>

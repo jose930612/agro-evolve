@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>flower-134.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Hoja-Sana</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2010</xmin>
+            <ymin>1704</ymin>
+            <xmax>2885</xmax>
+            <ymax>3101</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hoja-Sana</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>147</xmin>
+            <ymin>747</ymin>
+            <xmax>2007</xmax>
+            <ymax>3231</ymax>
+        </bndbox>
+    </object>
+</annotation>

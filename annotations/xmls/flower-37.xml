@@ -1,0 +1,49 @@
+<annotation>
+    <folder>images</folder>
+    <filename>flower-37.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Hoja-Roya Blanca</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1098</xmin>
+            <ymin>2670</ymin>
+            <xmax>1534</xmax>
+            <ymax>3084</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hoja-Roya Blanca</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2142</xmin>
+            <ymin>1428</ymin>
+            <xmax>2958</xmax>
+            <ymax>1859</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hoja-Roya Blanca</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>614</xmin>
+            <ymin>1399</ymin>
+            <xmax>1515</xmax>
+            <ymax>2568</ymax>
+        </bndbox>
+    </object>
+</annotation>

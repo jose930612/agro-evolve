@@ -1,0 +1,39 @@
+item {
+	id: 1
+	name: 'Hoja-Sana'
+}
+
+item {
+	id: 2
+	name: 'Hoja-Roya Blanca'
+}
+
+item {
+	id: 3
+	name: 'Hoja-Minador'
+}
+
+item {
+	id: 4
+	name: 'Hoja-Quimico'
+}
+
+item {
+	id: 5
+	name: 'Hoja-Quemada'
+}
+
+item {
+	id: 6
+	name: 'Flor-Cerrada'
+}
+
+item {
+	id: 7
+	name: 'Flor-Abierta'
+}
+
+item {
+	id: 8
+	name: 'Maleza'
+}

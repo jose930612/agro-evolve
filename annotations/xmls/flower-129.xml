@@ -1,0 +1,36 @@
+<annotation>
+    <folder>train</folder>
+    <filename>flower-129.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Hoja-Minador</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1770</xmin>
+            <ymin>1056</ymin>
+            <xmax>2246</xmax>
+            <ymax>2227</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hoja-Minador</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>974</xmin>
+            <ymin>1158</ymin>
+            <xmax>1918</xmax>
+            <ymax>2665</ymax>
+        </bndbox>
+    </object>
+</annotation>

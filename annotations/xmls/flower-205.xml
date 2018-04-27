@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>flower-205.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Hoja-Quimico</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>487</xmin>
+            <ymin>3162</ymin>
+            <xmax>988</xmax>
+            <ymax>3956</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hoja-Quimico</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>61</xmin>
+            <ymin>2968</ymin>
+            <xmax>563</xmax>
+            <ymax>3930</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>flower-242copy.jpg</filename>
+    <size>
+        <width>543</width>
+        <height>678</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Flor-Cerrada</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>30</xmin>
+            <ymin>125</ymin>
+            <xmax>453</xmax>
+            <ymax>552</ymax>
+        </bndbox>
+    </object>
+</annotation>

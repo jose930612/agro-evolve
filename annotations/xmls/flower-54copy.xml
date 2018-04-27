@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>flower-54copy.jpg</filename>
+    <size>
+        <width>1744</width>
+        <height>1510</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Hoja-Quemada</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>962</xmin>
+            <ymin>140</ymin>
+            <xmax>1260</xmax>
+            <ymax>416</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Maleza</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>429</xmin>
+            <ymin>311</ymin>
+            <xmax>996</xmax>
+            <ymax>932</ymax>
+        </bndbox>
+    </object>
+</annotation>

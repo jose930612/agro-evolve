@@ -1,0 +1,23 @@
+<annotation>
+    <folder>train</folder>
+    <filename>flower-318copy2.jpg</filename>
+    <size>
+        <width>1291</width>
+        <height>1306</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Hoja-Roya Blanca</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>476</xmin>
+            <ymin>451</ymin>
+            <xmax>971</xmax>
+            <ymax>978</ymax>
+        </bndbox>
+    </object>
+</annotation>

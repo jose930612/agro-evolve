@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>flower-167.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Flor-Cerrada</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2727</xmin>
+            <ymin>2115</ymin>
+            <xmax>2980</xmax>
+            <ymax>2603</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hoja-Sana</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>755</xmin>
+            <ymin>676</ymin>
+            <xmax>2166</xmax>
+            <ymax>3305</ymax>
+        </bndbox>
+    </object>
+</annotation>

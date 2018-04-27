@@ -1,0 +1,49 @@
+<annotation>
+    <folder>train</folder>
+    <filename>flower-214copy.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Flor-Cerrada</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1176</xmin>
+            <ymin>2045</ymin>
+            <xmax>1787</xmax>
+            <ymax>2586</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hoja-Roya Blanca</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1329</xmin>
+            <ymin>2553</ymin>
+            <xmax>1933</xmax>
+            <ymax>3135</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hoja-Roya Blanca</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>845</xmin>
+            <ymin>718</ymin>
+            <xmax>1754</xmax>
+            <ymax>1879</ymax>
+        </bndbox>
+    </object>
+</annotation>

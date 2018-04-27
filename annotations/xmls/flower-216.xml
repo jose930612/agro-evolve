@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>flower-216.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Hoja-Quimico</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2184</xmin>
+            <ymin>3136</ymin>
+            <xmax>2943</xmax>
+            <ymax>3955</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hoja-Quimico</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>357</xmin>
+            <ymin>593</ymin>
+            <xmax>2393</xmax>
+            <ymax>3424</ymax>
+        </bndbox>
+    </object>
+</annotation>

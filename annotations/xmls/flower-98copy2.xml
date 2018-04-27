@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>flower-98copy2.jpg</filename>
+    <size>
+        <width>663</width>
+        <height>1239</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Hoja-Minador</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>244</xmin>
+            <ymin>915</ymin>
+            <xmax>476</xmax>
+            <ymax>1173</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hoja-Minador</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>413</xmin>
+            <ymin>194</ymin>
+            <xmax>642</xmax>
+            <ymax>492</ymax>
+        </bndbox>
+    </object>
+</annotation>

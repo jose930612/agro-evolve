@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>flower-150copy3.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Flor-Cerrada</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>955</xmin>
+            <ymin>3515</ymin>
+            <xmax>1434</xmax>
+            <ymax>3971</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hoja-Sana</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>782</xmin>
+            <ymin>547</ymin>
+            <xmax>1962</xmax>
+            <ymax>3056</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>flower-30copy.jpg</filename>
+    <size>
+        <width>1489</width>
+        <height>1241</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Hoja-Sana</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>35</xmin>
+            <ymin>26</ymin>
+            <xmax>799</xmax>
+            <ymax>727</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hoja-Sana</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>558</xmin>
+            <ymin>252</ymin>
+            <xmax>1096</xmax>
+            <ymax>1192</ymax>
+        </bndbox>
+    </object>
+</annotation>

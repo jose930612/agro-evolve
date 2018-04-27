@@ -1,0 +1,6 @@
+.DS_Store
+frozen_inference_graph.pb
+graph.pbtxt
+model.ckpt.data-00000-of-00001
+model.ckpt.index
+model.ckpt.meta

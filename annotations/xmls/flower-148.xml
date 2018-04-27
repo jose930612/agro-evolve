@@ -1,0 +1,49 @@
+<annotation>
+    <folder>train</folder>
+    <filename>flower-148.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Hoja-Roya Blanca</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>510</xmin>
+            <ymin>2172</ymin>
+            <xmax>1404</xmax>
+            <ymax>2931</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hoja-Roya Blanca</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1249</xmin>
+            <ymin>653</ymin>
+            <xmax>1723</xmax>
+            <ymax>1711</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Flor-Cerrada</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1169</xmin>
+            <ymin>1597</ymin>
+            <xmax>1598</xmax>
+            <ymax>2149</ymax>
+        </bndbox>
+    </object>
+</annotation>

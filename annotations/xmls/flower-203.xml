@@ -1,0 +1,36 @@
+<annotation>
+    <folder>train</folder>
+    <filename>flower-203.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Flor-Cerrada</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1445</xmin>
+            <ymin>1852</ymin>
+            <xmax>1693</xmax>
+            <ymax>2095</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Flor-Cerrada</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1047</xmin>
+            <ymin>2198</ymin>
+            <xmax>1659</xmax>
+            <ymax>2753</ymax>
+        </bndbox>
+    </object>
+</annotation>

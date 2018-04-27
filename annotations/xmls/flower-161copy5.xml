@@ -1,0 +1,23 @@
+<annotation>
+    <folder>train</folder>
+    <filename>flower-161copy5.jpg</filename>
+    <size>
+        <width>660</width>
+        <height>624</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Flor-Cerrada</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>217</xmin>
+            <ymin>136</ymin>
+            <xmax>431</xmax>
+            <ymax>375</ymax>
+        </bndbox>
+    </object>
+</annotation>
